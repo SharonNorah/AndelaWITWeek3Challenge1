@@ -28,7 +28,7 @@ function arraySort(anArray) {
     return { evens: even.sort(), odds: odd.sort(), chars: char.sort() };
 };
 module.exports = arraySort; {
-    console.log(arraySort([2, 0, 6, 5, 1, 7, 'z', 'a']));
+    console.log(arraySort([2, 0, 40, 6, 9, 5, 5, 13, 7, 'z', 'a']));
     console.log(arraySort([2, 0, 6, 5, 1, 'sharon']));
     console.log(arraySort('sharon'));
 }

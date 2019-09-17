@@ -1,2 +1,2 @@
 # AndelaWITWeek3Challenge1
-solution for the arraysort challenge
+solution for week3 challenge1, arraysort
